@@ -1,0 +1,238 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Closed",
+        "description": "6:00am",
+        "stroke": "black",
+        "stroke-width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93430256843567,
+            32.786706290851114
+          ],
+          [
+            -79.9319314956665,
+            32.78330581799023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "George St",
+        "description": "6:00am",
+        "stroke": "black",
+        "stroke-width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.9352091550827,
+            32.78421232279952
+          ],
+          [
+            -79.9332457780838,
+            32.7851864669244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Burns Ln",
+        "description": "6:00am",
+        "stroke": "black",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93583679199219,
+            32.78512558322911
+          ],
+          [
+            -79.93384659290314,
+            32.786061383573056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Society St",
+        "description": "6:00am",
+        "stroke": "black",
+        "stroke-width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.9344339966774,
+            32.78305551279609
+          ],
+          [
+            -79.93233382701874,
+            32.78391015555611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Meeting St",
+        "description": "7:00am",
+        "stroke": "black",
+        "stroke-width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93428111076355,
+            32.786697271201156
+          ],
+          [
+            -79.93530571460724,
+            32.788280205766405
+          ],
+          [
+            -79.9358206987381,
+            32.78912352407558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hutson St",
+        "description": "7:00am",
+        "stroke": "black",
+        "stroke-width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93732273578644,
+            32.78740756583645
+          ],
+          [
+            -79.93568927049637,
+            32.78810883529294
+          ],
+          [
+            -79.93531107902527,
+            32.78828246063887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Charlotte St",
+        "description": "7:00am",
+        "stroke": "black",
+        "stroke-width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93311703205109,
+            32.788961174648236
+          ],
+          [
+            -79.93514746427536,
+            32.78806148286704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Henrietta St",
+        "description": "7:00am",
+        "stroke": "black",
+        "stroke-width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93234992027283,
+            32.7884042236663
+          ],
+          [
+            -79.93471831083296,
+            32.78740080115238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Calhoun St",
+        "description": "7:00am",
+        "stroke": "black",
+        "stroke-width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93627667427063,
+            32.78582010587207
+          ],
+          [
+            -79.93428647518158,
+            32.78669050646307
+          ],
+          [
+            -79.93293195962906,
+            32.78728805634231
+          ],
+          [
+            -79.93167132139206,
+            32.78785177896364
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Roads will close at 6am",
+        "description": "",
+        "stroke": "#000",
+        "stroke-width": "",
+        "marker-size": "",
+        "marker-color": "#000",
+        "marker-symbol": "roadblock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93429183959961,
+          32.78675138908728
+        ]
+      }
+    }
+  ]
+}
