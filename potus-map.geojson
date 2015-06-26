@@ -362,22 +362,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "medium",
-        "marker-symbol": "museum",
-        "title": "Charleston Museum remote viewing location is full"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93571877479553,
-          32.7898180155028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#85144a",
         "stroke-width": 5,
         "stroke-opacity": 1
@@ -409,74 +393,6 @@
             -79.94021415710449,
             32.791621864004085
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0075d9",
-        "marker-size": "small",
-        "marker-symbol": "religious-christian",
-        "title": "Remote viewing location",
-        "description": "Mount Royal Baptist Church, 4761 Luella Ave., North Charleston, SC 29405, 843-744-0856"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.99922811985016,
-          32.87896096059738
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "small",
-        "marker-symbol": "cinema",
-        "title": "AT CAPACITY Remove Viewing Location",
-        "description": "Cinnebarre – Mount Pleasant, 963 Houston Northcutt Blvd., Mount Pleasant, SC 29464, 843-216-2690"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.88903760910034,
-          32.79954032605238
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0075d9",
-        "marker-size": "small",
-        "marker-symbol": "monument",
-        "title": "Remote Viewing Location",
-        "description": "Omar Shrine Temple, 176 Patriots Point Rd, Mount Pleasant, SC 29464, 843-971-0131"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.90017414093018,
-          32.79741197047022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0075d9",
-        "marker-size": "small",
-        "marker-symbol": "town-hall",
-        "title": "Remote Viewing Location",
-        "description": "Charleston County Council Chambers, Public Services Building, 4045 Bridgeview Drive, North Charleston, SC 29405, 843-958-4000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.01320242881775,
-          32.84055532370215
         ]
       }
     },
@@ -1093,22 +1009,6 @@
             -79.9269962310791,
             32.77693747409597
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffdc00",
-        "marker-size": "small",
-        "marker-symbol": "car",
-        "title": "Accident reported"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.92706060409546,
-          32.78983605416892
         ]
       }
     },
