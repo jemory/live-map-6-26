@@ -1070,22 +1070,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "large",
-        "marker-symbol": "star",
-        "title": "President Obama speaking now"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93407726287842,
-          32.785163917412476
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#85144a",
         "stroke-width": 4,
         "stroke-opacity": 1
