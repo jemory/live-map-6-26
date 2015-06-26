@@ -488,10 +488,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2fcc40",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "title": "Remote viewing location"
+        "marker-color": "#ff4136",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "title": "Charleston Museum remote viewing location is full"
       },
       "geometry": {
         "type": "Point",
