@@ -552,22 +552,6 @@
           32.787671388113516
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "large",
-        "marker-symbol": "star",
-        "title": "Reports: Red Cross out of water, requests more"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.935622215271,
-          32.786769428375315
-        ]
-      }
     }
   ]
 }
