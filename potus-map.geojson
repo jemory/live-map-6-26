@@ -450,23 +450,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0075d9",
-        "marker-size": "small",
-        "marker-symbol": "star",
-        "title": "Funeral processions arriving at arena",
-        "description": "<img src=\"https://pbs.twimg.com/media/CIbfxsnWoAANv3y.jpg\">"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93502140045165,
-          32.787833739895085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#85144a",
         "stroke-width": 6,
         "stroke-opacity": 1
@@ -586,6 +569,23 @@
         "coordinates": [
           -79.93437767028809,
           32.786823546217526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff851b",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "title": "Funeral attendee faints due to heat",
+        "description": "<img src=\"https://pbs.twimg.com/media/CIbl80QWsAAJQRS.jpg\">"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93491411209106,
+          32.787671388113516
         ]
       }
     }
