@@ -952,10 +952,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffdc00",
+        "marker-color": "#ff4136",
         "marker-size": "large",
         "marker-symbol": "police",
-        "Title": "Police in place, preparing for closure of I-26"
+        "Title": "Police closing i-26"
       },
       "geometry": {
         "type": "Point",
@@ -970,7 +970,7 @@
       "properties": {
         "stroke": "#ff4136",
         "stroke-width": 7,
-        "stroke-opacity": 0
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "LineString",
