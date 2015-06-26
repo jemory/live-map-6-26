@@ -2769,6 +2769,21 @@
           32.88549767998696
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01299858093262,
+          32.874325048676425
+        ]
+      }
     }
   ]
 }
