@@ -231,7 +231,6 @@
         "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Road Closed",
-        "description": "6:00am",
         "stroke": "#000000",
         "stroke-width": ""
       },
@@ -249,8 +248,7 @@
         "marker-color": "#ffdc00",
         "marker-size": "small",
         "marker-symbol": "roadblock",
-        "title": "Road Closed",
-        "description": "6:00am"
+        "title": "Road Closed"
       },
       "geometry": {
         "type": "Point",
@@ -266,8 +264,7 @@
         "marker-color": "#ffdc00",
         "marker-size": "small",
         "marker-symbol": "roadblock",
-        "title": "Road Closed",
-        "description": "6:00am"
+        "title": "Road Closed"
       },
       "geometry": {
         "type": "Point",
@@ -283,8 +280,8 @@
         "marker-color": "#ffdc00",
         "marker-size": "small",
         "marker-symbol": "roadblock",
-        "title": "Road Closed",
-        "description": "7:00am"
+        "title": "",
+        "description": ""
       },
       "geometry": {
         "type": "Point",
