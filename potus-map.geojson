@@ -907,22 +907,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#39cbcc",
-        "marker-size": "small",
-        "marker-symbol": "camera",
-        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">President Obama arrives for massive arena clapping and spiritual at Clementa Pinckney service <a href=\"http://t.co/IKKs8Yb0Uq\">pic.twitter.com/IKKs8Yb0Uq</a></p>&mdash; schuyler kropf (@skropf47) <a href=\"https://twitter.com/skropf47/status/614498958459715584\">June 26, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.9343991279602,
-          32.78491136248853
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#85144a",
         "stroke-width": 4,
         "stroke-opacity": 1
