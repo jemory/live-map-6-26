@@ -319,22 +319,6 @@
         "marker-color": "#ff4136",
         "marker-size": "medium",
         "marker-symbol": "car",
-        "title": "traffic reported"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.89910125732422,
-          32.86142070938497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "medium",
-        "marker-symbol": "car",
         "title": "Traffic reported"
       },
       "geometry": {
