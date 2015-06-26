@@ -294,22 +294,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0075d9",
-        "marker-size": "small",
-        "marker-symbol": "",
-        "title": "Public being allowed to enter arena"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93413090705872,
-          32.785308234189934
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#85144a",
         "stroke-width": 6,
         "stroke-opacity": 1
@@ -550,6 +534,22 @@
         "coordinates": [
           -79.93491411209106,
           32.787671388113516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0075d9",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "title": "Reports: Arena nearly full"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93412017822266,
+          32.78525411542582
         ]
       }
     }
