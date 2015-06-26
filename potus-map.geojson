@@ -968,55 +968,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#39cbcc",
-        "marker-size": "small",
-        "marker-symbol": "camera",
-        "title": "Plane slowly approaching from a distance @celmorePC",
-        "description": "<img src=\"https://pbs.twimg.com/media/CIcSgriWwAAzdWL.jpg\">"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.0438117980957,
-          32.896308562782686
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#39cbcc",
-        "marker-size": "small",
-        "marker-symbol": "camera",
-        "description": "<img src=\"https://pbs.twimg.com/media/CIcSvE1WIAA34cm.jpg\">"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.04535675048828,
-          32.90020015763739
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#39cbcc",
-        "marker-size": "small",
-        "marker-symbol": "camera",
-        "description": "<img src=\"https://pbs.twimg.com/media/CIcTBxpW8AA1TjS.jpg\">"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.04690170288086,
-          32.89818231498254
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#85144a",
         "stroke-width": 5,
         "stroke-opacity": 1
@@ -1047,22 +998,6 @@
         "coordinates": [
           -80.03196716308594,
           32.78987213149016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "large",
-        "marker-symbol": "star",
-        "title": "President en route downtown"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.03737449645996,
-          32.895732015669786
         ]
       }
     },
