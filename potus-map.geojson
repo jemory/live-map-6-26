@@ -228,11 +228,11 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ffdc00",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Road Closed",
         "description": "6:00am",
-        "stroke": "",
+        "stroke": "#000000",
         "stroke-width": ""
       },
       "geometry": {
@@ -247,7 +247,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ffdc00",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Road Closed",
         "description": "6:00am"
@@ -264,7 +264,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ffdc00",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Road Closed",
         "description": "6:00am"
@@ -281,7 +281,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ffdc00",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Road Closed",
         "description": "7:00am"
