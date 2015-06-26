@@ -1321,22 +1321,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff851b",
-        "marker-size": "small",
-        "marker-symbol": "star",
-        "title": "President expected to land shortly"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.04106521606445,
-          32.89746164575043
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#ff4136",
         "marker-size": "medium",
         "marker-symbol": "car",
@@ -1371,7 +1355,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff851b",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "star",
         "title": "President expected to land at 1:05"
       },
