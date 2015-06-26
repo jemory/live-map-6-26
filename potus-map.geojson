@@ -1068,6 +1068,22 @@
           32.78525411542582
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdc00",
+        "marker-size": "large",
+        "marker-symbol": "police",
+        "Title": "Police in place, preparing for closure of I-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.04748106002806,
+          32.93464052174691
+        ]
+      }
     }
   ]
 }
