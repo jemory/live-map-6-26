@@ -1427,21 +1427,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
-        "marker-symbol": "roadblock"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.98767852783203,
-          32.854228789344965
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#101010",
         "marker-size": "medium",
         "marker-symbol": "roadblock"
@@ -1451,21 +1436,6 @@
         "coordinates": [
           -79.98778581619263,
           32.850515439500846
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#101010",
-        "marker-size": "medium",
-        "marker-symbol": "roadblock"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.98121976852417,
-          32.84496315083277
         ]
       }
     },
