@@ -1099,8 +1099,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "medium",
+        "marker-color": "#ffdc00",
+        "marker-size": "small",
         "marker-symbol": "car",
         "title": "Accident reported"
       },
