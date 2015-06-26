@@ -554,23 +554,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0075d9",
-        "marker-size": "large",
-        "marker-symbol": "star",
-        "title": "Line stopped by officers waiting to see number of seats left",
-        "description": "<img src=\"https://pbs.twimg.com/media/CIbfKNvWcAALPVU.jpg\">"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93424892425537,
-          32.78667923189846
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#85144a",
         "stroke-width": 6,
         "stroke-opacity": 1
@@ -601,6 +584,23 @@
         "coordinates": [
           -79.95873212814331,
           32.787418840308746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0075d9",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "title": "Funeral processions arriving at arena",
+        "description": "<img src=\"https://pbs.twimg.com/media/CIbfxsnWoAANv3y.jpg\">"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93502140045165,
+          32.787833739895085
         ]
       }
     }
