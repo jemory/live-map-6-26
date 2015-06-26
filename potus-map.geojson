@@ -649,6 +649,23 @@
           32.78540745183864
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0075d9",
+        "marker-size": "medium",
+        "marker-symbol": "religious-christian",
+        "title": "Remote viewing location",
+        "description": "Mount Royal Baptist Church, 4761 Luella Ave., North Charleston, SC 29405, 843-744-0856"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.99922811985016,
+          32.87896096059738
+        ]
+      }
     }
   ]
 }
