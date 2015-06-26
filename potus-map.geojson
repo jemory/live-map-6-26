@@ -923,7 +923,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#85144a",
+        "stroke": "#ff851b",
         "stroke-width": 5,
         "stroke-opacity": 1
       },
