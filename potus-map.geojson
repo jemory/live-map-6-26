@@ -360,6 +360,22 @@
           32.891984367967275
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "title": "Traffic Reported"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98029708862305,
+          32.78597569624017
+        ]
+      }
     }
   ]
 }
