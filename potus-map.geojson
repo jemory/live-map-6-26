@@ -1001,6 +1001,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#39cbcc",
+        "marker-size": "large",
+        "marker-symbol": "camera",
+        "title": "View walking into TD Arena around 1:40 @celmorePC",
+        "description": "<img src=\"https://pbs.twimg.com/media/CIcar-6XAAAUZEh.jpg\">"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93369102478026,
+          32.78534431334772
+        ]
+      }
     }
   ]
 }
