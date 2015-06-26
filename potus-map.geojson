@@ -99,7 +99,7 @@
         "stroke-opacity": 1,
         "title": "Meeting St",
         "description": "7:00am",
-        "stroke": "#fa8800",
+        "stroke": "#fa4a31",
         "stroke-width": 5
       },
       "geometry": {
@@ -126,7 +126,7 @@
         "stroke-opacity": 1,
         "title": "Hutson St",
         "description": "7:00am",
-        "stroke": "#fa8800",
+        "stroke": "#fa4a31",
         "stroke-width": 4
       },
       "geometry": {
@@ -153,7 +153,7 @@
         "stroke-opacity": 1,
         "title": "Charlotte St",
         "description": "7:00am",
-        "stroke": "#fa8800",
+        "stroke": "#fa4a31",
         "stroke-width": 4
       },
       "geometry": {
@@ -176,7 +176,7 @@
         "stroke-opacity": 1,
         "title": "Henrietta St",
         "description": "7:00am",
-        "stroke": "#fa8800",
+        "stroke": "#fa4a31",
         "stroke-width": 4
       },
       "geometry": {
