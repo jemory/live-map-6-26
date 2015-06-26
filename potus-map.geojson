@@ -683,6 +683,23 @@
           32.79954032605238
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0075d9",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "title": "Remote Viewing Location",
+        "description": "Omar Shrine Temple, 176 Patriots Point Rd, Mount Pleasant, SC 29464, 843-971-0131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90017414093018,
+          32.79741197047022
+        ]
+      }
     }
   ]
 }
