@@ -473,23 +473,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff4136",
-        "marker-size": "large",
-        "marker-symbol": "star",
-        "title": "Arena at capacity"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93412017822266,
-          32.78525411542582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "star",
         "title": "Charleston Museum remote viewing location is full"
       },
@@ -622,7 +606,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#39cbcc",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "camera",
         "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">Meeting St. <a href=\"https://twitter.com/hashtag/chs?src=hash\">#chs</a> <a href=\"https://twitter.com/hashtag/CharlestonShooting?src=hash\">#CharlestonShooting</a> <a href=\"http://t.co/KRBG5QMTUd\">pic.twitter.com/KRBG5QMTUd</a></p>&mdash; brenda rindge (@brindge) <a href=\"https://twitter.com/brindge/status/614445277978710016\">June 26, 2015</a></blockquote>"
       },
@@ -638,7 +622,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#39cbcc",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "camera",
         "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">Area is now taped off. Public being asked to leave <a href=\"https://twitter.com/hashtag/CharlestonShooting?src=hash\">#CharlestonShooting</a> <a href=\"http://t.co/Wbm7njYTdG\">pic.twitter.com/Wbm7njYTdG</a></p>&mdash; Glenn Smith (@glennsmith5) <a href=\"https://twitter.com/glennsmith5/status/614445742028124161\">June 26, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
       },
