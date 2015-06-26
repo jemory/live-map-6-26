@@ -920,6 +920,21 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#85144a",
+        "marker-size": "medium",
+        "marker-symbol": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93141651153564,
+          32.77960754345832
+        ]
+      }
     }
   ]
 }
