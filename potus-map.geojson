@@ -1001,54 +1001,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 6,
-        "stroke-opacity": 1
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.92948532104492,
-            32.788789805486786
-          ],
-          [
-            -79.93025779724121,
-            32.79016074953333
-          ],
-          [
-            -79.93118047714233,
-            32.792054782200324
-          ],
-          [
-            -79.93225336074829,
-            32.79409307705405
-          ],
-          [
-            -79.93289709091187,
-            32.795481976871685
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffdc00",
-        "marker-size": "small",
-        "marker-symbol": "roadblock"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.9329400062561,
-          32.795391789230436
-        ]
-      }
     }
   ]
 }
