@@ -1045,6 +1045,43 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff851b",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.9396562576294,
+            32.79479654850406
+          ],
+          [
+            -79.93581533432007,
+            32.78913254347952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "title": "President Obama speaking now"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93407726287842,
+          32.785163917412476
+        ]
+      }
     }
   ]
 }
