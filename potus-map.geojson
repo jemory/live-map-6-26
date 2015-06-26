@@ -1544,6 +1544,22 @@
           32.89937140639601
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "title": "President en route downtown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03737449645996,
+          32.895732015669786
+        ]
+      }
     }
   ]
 }
