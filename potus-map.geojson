@@ -445,22 +445,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#39cbcc",
-        "marker-size": "small",
-        "marker-symbol": "camera",
-        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">Meeting St. <a href=\"https://twitter.com/hashtag/chs?src=hash\">#chs</a> <a href=\"https://twitter.com/hashtag/CharlestonShooting?src=hash\">#CharlestonShooting</a> <a href=\"http://t.co/KRBG5QMTUd\">pic.twitter.com/KRBG5QMTUd</a></p>&mdash; brenda rindge (@brindge) <a href=\"https://twitter.com/brindge/status/614445277978710016\">June 26, 2015</a></blockquote>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93458151817322,
-          32.7871572721836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#0075d9",
         "marker-size": "medium",
         "marker-symbol": "religious-christian",
