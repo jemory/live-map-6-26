@@ -924,8 +924,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "large",
+        "marker-color": "#ff851b",
+        "marker-size": "medium",
         "marker-symbol": "star",
         "title": "President arrives at TD Arena"
       },
