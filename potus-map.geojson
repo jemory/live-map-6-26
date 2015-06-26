@@ -300,21 +300,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#85144a",
-        "marker-size": "medium",
-        "marker-symbol": "car"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.92714643478394,
-          32.780437413560065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#aaaaaa",
         "marker-size": "small",
         "marker-symbol": "roadblock"
@@ -424,21 +409,6 @@
             -79.94021415710449,
             32.791621864004085
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#85144a",
-        "marker-size": "medium",
-        "marker-symbol": "car"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93847608566284,
-          32.78900627174111
         ]
       }
     },
@@ -581,21 +551,6 @@
             -79.93120193481445,
             32.777623040090724
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#85144a",
-        "marker-size": "medium",
-        "marker-symbol": "car"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93141651153564,
-          32.77960754345832
         ]
       }
     },
@@ -1021,6 +976,72 @@
           [
             -79.94472026824951,
             32.80291312419299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff851b",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.92839097976685,
+            32.78386505587953
+          ],
+          [
+            -79.92889523506165,
+            32.78461370755054
+          ],
+          [
+            -79.92905616760254,
+            32.78510979856056
+          ],
+          [
+            -79.92910981178284,
+            32.78568706461682
+          ],
+          [
+            -79.92907762527464,
+            32.78623726783986
+          ],
+          [
+            -79.92915272712708,
+            32.78679648730054
+          ],
+          [
+            -79.92942094802855,
+            32.78816746207101
+          ],
+          [
+            -79.92950677871704,
+            32.78880784436143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff851b",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93120193481445,
+            32.77755087549791
+          ],
+          [
+            -79.93107318878172,
+            32.77654056505325
           ]
         ]
       }
