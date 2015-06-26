@@ -196,37 +196,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke-opacity": 1,
-        "title": "Calhoun St",
-        "description": "7:00am",
-        "stroke": "#101010",
-        "stroke-width": 6
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.93627667427063,
-            32.78582010587207
-          ],
-          [
-            -79.93428647518158,
-            32.78669050646307
-          ],
-          [
-            -79.93293195962906,
-            32.78728805634231
-          ],
-          [
-            -79.93167132139206,
-            32.78785177896364
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#ffdc00",
         "marker-size": "small",
         "marker-symbol": "roadblock",
@@ -239,22 +208,6 @@
         "coordinates": [
           -79.93626594543457,
           32.78583138054556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffdc00",
-        "marker-size": "small",
-        "marker-symbol": "roadblock",
-        "title": "Road Closed"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.9316954612732,
-          32.78785177896364
         ]
       }
     },
@@ -525,10 +478,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0075d9",
+        "marker-color": "#ff4136",
         "marker-size": "medium",
         "marker-symbol": "cinema",
-        "title": "Remove Viewing Location",
+        "title": "AT CAPACITY Remove Viewing Location",
         "description": "Cinnebarre – Mount Pleasant, 963 Houston Northcutt Blvd., Mount Pleasant, SC 29464, 843-216-2690"
       },
       "geometry": {
@@ -873,6 +826,223 @@
         "coordinates": [
           -79.93141651153564,
           32.77960754345832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 6,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93626594543457,
+            32.78581334106727
+          ],
+          [
+            -79.93428111076355,
+            32.786715310500185
+          ],
+          [
+            -79.93174910545349,
+            32.787833739895085
+          ],
+          [
+            -79.93022561073302,
+            32.78849216352688
+          ],
+          [
+            -79.92950677871704,
+            32.78880784436143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdc00",
+        "marker-size": "small",
+        "marker-symbol": "roadblock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92952823638916,
+          32.78879882492457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 6,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93322968482971,
+            32.78519097682609
+          ],
+          [
+            -79.93234992027283,
+            32.785605886804035
+          ],
+          [
+            -79.9315559864044,
+            32.78596667651612
+          ],
+          [
+            -79.9306333065033,
+            32.78640864191915
+          ],
+          [
+            -79.92982864379883,
+            32.786787467659714
+          ],
+          [
+            -79.92956042289734,
+            32.78684158549093
+          ],
+          [
+            -79.92916345596313,
+            32.786877664026804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdc00",
+        "marker-size": "small",
+        "marker-symbol": "roadblock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9291741847992,
+          32.7868596247607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 6,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93123412132262,
+            32.78539843205697
+          ],
+          [
+            -79.93010759353638,
+            32.785876479225266
+          ],
+          [
+            -79.92908835411072,
+            32.78628236631377
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdc00",
+        "marker-size": "small",
+        "marker-symbol": "roadblock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92909908294676,
+          32.78625530723217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 6,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93230700492859,
+            32.78392819542034
+          ],
+          [
+            -79.93070840835571,
+            32.784595667825315
+          ],
+          [
+            -79.9291741847992,
+            32.78526313522214
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdc00",
+        "marker-size": "small",
+        "marker-symbol": "roadblock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9291741847992,
+          32.78521803623147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 6,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93187785148619,
+            32.787752564041334
+          ],
+          [
+            -79.93172764778137,
+            32.78684158549093
+          ],
+          [
+            -79.93157744407654,
+            32.78598471596329
+          ],
+          [
+            -79.93123412132262,
+            32.78539843205697
+          ],
+          [
+            -79.93071913719177,
+            32.784595667825315
+          ]
         ]
       }
     }
