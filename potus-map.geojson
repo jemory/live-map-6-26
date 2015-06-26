@@ -666,6 +666,23 @@
           32.87896096059738
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0075d9",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Remove Viewing Location",
+        "description": "Cinnebarre – Mount Pleasant, 963 Houston Northcutt Blvd., Mount Pleasant, SC 29464, 843-216-2690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.88903760910034,
+          32.79954032605238
+        ]
+      }
     }
   ]
 }
