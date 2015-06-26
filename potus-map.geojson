@@ -1957,7 +1957,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff851b",
+        "stroke": "#ffdc00",
         "stroke-width": 6,
         "stroke-opacity": 1
       },
