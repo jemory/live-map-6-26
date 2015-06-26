@@ -1755,7 +1755,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff851b",
+        "stroke": "#85144a",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -2376,6 +2376,31 @@
           [
             -79.87146377563477,
             32.79182028510562
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff851b",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.01033782958984,
+            32.799612472806416
+          ],
+          [
+            -80.0068187713623,
+            32.798818855292
+          ],
+          [
+            -80.00184059143066,
+            32.79795308265157
           ]
         ]
       }
