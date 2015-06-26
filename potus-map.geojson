@@ -1385,7 +1385,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0075d9",
+        "marker-color": "#ff4136",
         "marker-size": "large",
         "marker-symbol": "star",
         "title": "President expected to land shortly"
