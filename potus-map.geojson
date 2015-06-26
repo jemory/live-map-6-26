@@ -543,7 +543,7 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "marker",
+        "marker-symbol": "circle",
         "title": "Remote viewing location"
       },
       "geometry": {
