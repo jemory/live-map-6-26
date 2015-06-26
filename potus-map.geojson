@@ -1322,7 +1322,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff851b",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "star",
         "title": "President expected to land shortly"
       },
@@ -1364,6 +1364,22 @@
         "coordinates": [
           -80.04484176635741,
           32.89515546480427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff851b",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "title": "President expected to land at 1:05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03814697265625,
+          32.89414649175998
         ]
       }
     }
