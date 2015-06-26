@@ -924,22 +924,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#39cbcc",
-        "marker-size": "small",
-        "marker-symbol": "camera",
-        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">.<a href=\"https://twitter.com/POTUS\">@POTUS</a> swaying with the music at <a href=\"https://twitter.com/hashtag/ClementaPinckney?src=hash\">#ClementaPinckney</a>&#39;s funeral. &quot;It Is Well With My Soul.&quot;  <a href=\"https://twitter.com/hashtag/EmanuelAME?src=hash\">#EmanuelAME</a> <a href=\"https://twitter.com/hashtag/Charleston?src=hash\">#Charleston</a> <a href=\"http://t.co/rthBCy2ndW\">pic.twitter.com/rthBCy2ndW</a></p>&mdash; The Post and Courier (@postandcourier) <a href=\"https://twitter.com/postandcourier/status/614500513078476800\">June 26, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93351936340332,
-          32.78521803623147
-        ]
-      }
     }
   ]
 }
