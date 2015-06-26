@@ -310,6 +310,25 @@
           32.78915058228465
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SC Aquarium",
+        "description": "Closed Friday",
+        "stroke": "",
+        "stroke-width": "",
+        "marker-color": "",
+        "marker-size": "small",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9265456199646,
+          32.7912701164179
+        ]
+      }
     }
   ]
 }
