@@ -272,23 +272,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.93429183959961,
-          32.786715310500185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffdc00",
-        "marker-size": "medium",
-        "marker-symbol": "roadblock",
-        "title": "Road Closed",
-        "description": "6:00am"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.93189930915831,
           32.78326071800728
         ]
