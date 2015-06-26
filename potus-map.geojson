@@ -296,7 +296,7 @@
       "properties": {
         "marker-color": "#0075d9",
         "marker-size": "small",
-        "marker-symbol": "star-stroked",
+        "marker-symbol": "",
         "title": "Public being allowed to enter arena"
       },
       "geometry": {
