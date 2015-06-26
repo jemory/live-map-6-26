@@ -295,7 +295,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#85144a",
-        "stroke-width": 7,
+        "stroke-width": 6,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -441,7 +441,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#85144a",
-        "stroke-width": 7,
+        "stroke-width": 5,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -577,7 +577,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#85144a",
-        "stroke-width": 7,
+        "stroke-width": 5,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -654,7 +654,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#85144a",
-        "stroke-width": 6,
+        "stroke-width": 5,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -675,7 +675,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#85144a",
-        "stroke-width": 6,
+        "stroke-width": 5,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -735,7 +735,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#85144a",
-        "stroke-width": 6,
+        "stroke-width": 5,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -772,7 +772,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#85144a",
-        "stroke-width": 6,
+        "stroke-width": 5,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -836,7 +836,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#85144a",
-        "stroke-width": 7,
+        "stroke-width": 5,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -885,6 +885,39 @@
         "coordinates": [
           -79.9469518661499,
           32.78626432692696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#85144a",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93175983428955,
+            32.78247597464367
+          ],
+          [
+            -79.93154525756836,
+            32.780780183734564
+          ],
+          [
+            -79.93139505386351,
+            32.779499298961355
+          ],
+          [
+            -79.93124485015869,
+            32.7780560264186
+          ],
+          [
+            -79.93120193481445,
+            32.777623040090724
+          ]
         ]
       }
     }
