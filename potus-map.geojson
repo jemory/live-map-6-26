@@ -1349,6 +1349,23 @@
           32.79982891271724
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#39cbcc",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "title": "Press, others standing by in the sun.  @celmorePC",
+        "description": "<img src=\"https://pbs.twimg.com/media/CIcPbCEWwAAB3A6.jpg\">"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.04484176635741,
+          32.89515546480427
+        ]
+      }
     }
   ]
 }
