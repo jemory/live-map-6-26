@@ -1132,6 +1132,22 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "title": "Accident reported"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92706060409546,
+          32.78983605416892
+        ]
+      }
     }
   ]
 }
