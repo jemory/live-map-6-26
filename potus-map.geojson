@@ -446,7 +446,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0075d9",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "religious-christian",
         "title": "Remote viewing location",
         "description": "Mount Royal Baptist Church, 4761 Luella Ave., North Charleston, SC 29405, 843-744-0856"
@@ -463,7 +463,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff4136",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "cinema",
         "title": "AT CAPACITY Remove Viewing Location",
         "description": "Cinnebarre – Mount Pleasant, 963 Houston Northcutt Blvd., Mount Pleasant, SC 29464, 843-216-2690"
@@ -480,7 +480,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0075d9",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "monument",
         "title": "Remote Viewing Location",
         "description": "Omar Shrine Temple, 176 Patriots Point Rd, Mount Pleasant, SC 29464, 843-971-0131"
@@ -497,7 +497,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0075d9",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "town-hall",
         "title": "Remote Viewing Location",
         "description": "Charleston County Council Chambers, Public Services Building, 4045 Bridgeview Drive, North Charleston, SC 29405, 843-958-4000"
