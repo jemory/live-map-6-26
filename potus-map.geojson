@@ -572,7 +572,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0075d9",
-        "marker-size": "large",
+        "marker-size": "small",
         "marker-symbol": "star",
         "title": "Funeral processions arriving at arena",
         "description": "<img src=\"https://pbs.twimg.com/media/CIbfxsnWoAANv3y.jpg\">"
