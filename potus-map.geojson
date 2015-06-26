@@ -463,7 +463,8 @@
       "properties": {
         "marker-color": "#ffdc00",
         "marker-size": "small",
-        "marker-symbol": "roadblock"
+        "marker-symbol": "roadblock",
+        "title": "Road closed"
       },
       "geometry": {
         "type": "Point",
@@ -478,7 +479,8 @@
       "properties": {
         "marker-color": "#ffdc00",
         "marker-size": "small",
-        "marker-symbol": "roadblock"
+        "marker-symbol": "roadblock",
+        "title": "Road closed"
       },
       "geometry": {
         "type": "Point",
