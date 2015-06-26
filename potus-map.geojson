@@ -440,23 +440,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#39cbcc",
-        "marker-size": "small",
-        "marker-symbol": "camera",
-        "title": "\"Crowd thick and drenched in sweat as worries rise the arena filling.\"",
-        "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">Crowd thick and drenched in sweat as worries rise the arena filling. <a href=\"https://twitter.com/postandcourier\">@postandcourier</a> <a href=\"https://twitter.com/hashtag/ClementaPinckney?src=hash\">#ClementaPinckney</a> <a href=\"http://t.co/9qYzLNPV5T\">pic.twitter.com/9qYzLNPV5T</a></p>&mdash; Jennifer Berry Hawes (@JenBerryHawes) <a href=\"https://twitter.com/JenBerryHawes/status/614441764351553536\">June 26, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93375539779663,
-          32.78598471596329
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#85144a",
         "stroke-width": 7,
         "stroke-opacity": 1
