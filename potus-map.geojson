@@ -397,7 +397,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#85144a",
-        "stroke-width": 8,
+        "stroke-width": 7,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -458,7 +458,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#85144a",
-        "stroke-width": 8,
+        "stroke-width": 7,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -495,7 +495,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#85144a",
-        "stroke-width": 8,
+        "stroke-width": 7,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -525,6 +525,79 @@
         "coordinates": [
           -79.94227409362793,
           32.77915652385224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#85144a",
+        "stroke-width": 7,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93643760681152,
+            32.78583138054556
+          ],
+          [
+            -79.93746757507324,
+            32.787779622667486
+          ],
+          [
+            -79.9394416809082,
+            32.79052152077023
+          ],
+          [
+            -79.94107246398926,
+            32.793191182438825
+          ],
+          [
+            -79.94356155395506,
+            32.79564431439544
+          ],
+          [
+            -79.94914054870604,
+            32.800983250009274
+          ],
+          [
+            -79.95068550109863,
+            32.80242615054725
+          ],
+          [
+            -79.95102882385254,
+            32.803075448148775
+          ],
+          [
+            -79.95077133178711,
+            32.80552830739908
+          ],
+          [
+            -79.95102882385254,
+            32.80798109896382
+          ],
+          [
+            -79.95145797729491,
+            32.81065023640322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "title": "Traffic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94622230529785,
+          32.79816952660203
         ]
       }
     }
