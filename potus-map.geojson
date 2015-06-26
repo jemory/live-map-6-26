@@ -1381,6 +1381,22 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0075d9",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "title": "President expected to land shortly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.04106521606445,
+          32.89746164575043
+        ]
+      }
     }
   ]
 }
