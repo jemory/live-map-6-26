@@ -525,10 +525,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0075d9",
-        "marker-size": "small",
-        "marker-symbol": "",
-        "title": "Reports: Arena nearly full"
+        "marker-color": "#ff4136",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "title": "Arena at capacity"
       },
       "geometry": {
         "type": "Point",
