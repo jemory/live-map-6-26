@@ -553,6 +553,23 @@
           32.7898180155028
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7fdbff",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "title": "\"Crowd thick and drenched in sweat as worries rise the arena filling.\"",
+        "description": "<img src=\"https://pbs.twimg.com/media/CIbvh3TWsAAsKwt.jpg\"> -@JenBerryHawes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93375539779663,
+          32.78598471596329
+        ]
+      }
     }
   ]
 }
