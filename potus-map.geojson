@@ -542,6 +542,50 @@
           32.78591255815258
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#85144a",
+        "stroke-width": 7,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.94276762008667,
+            32.794985943712824
+          ],
+          [
+            -79.94184494018555,
+            32.793777414979175
+          ],
+          [
+            -79.94127631187439,
+            32.793082954470336
+          ],
+          [
+            -79.94056820869446,
+            32.79206380130702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "medium",
+        "marker-symbol": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94171619415283,
+          32.793610564572674
+        ]
+      }
     }
   ]
 }
