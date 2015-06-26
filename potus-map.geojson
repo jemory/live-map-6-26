@@ -1281,9 +1281,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#ffdc00",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "title": "Air Force One had landed in Charleston"
       },
       "geometry": {
