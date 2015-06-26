@@ -196,7 +196,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffdc00",
+        "marker-color": "#aaaaaa",
         "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Road Closed",
@@ -214,7 +214,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffdc00",
+        "marker-color": "#aaaaaa",
         "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Road Closed"
@@ -230,7 +230,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffdc00",
+        "marker-color": "#aaaaaa",
         "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "",
@@ -315,7 +315,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffdc00",
+        "marker-color": "#aaaaaa",
         "marker-size": "small",
         "marker-symbol": "roadblock"
       },
@@ -330,7 +330,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffdc00",
+        "marker-color": "#aaaaaa",
         "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Road closed"
@@ -346,7 +346,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffdc00",
+        "marker-color": "#aaaaaa",
         "marker-size": "small",
         "marker-symbol": "roadblock",
         "title": "Road closed"
@@ -362,7 +362,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffdc00",
+        "marker-color": "#aaaaaa",
         "marker-size": "small",
         "marker-symbol": "roadblock"
       },
@@ -635,7 +635,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffdc00",
+        "marker-color": "#aaaaaa",
         "marker-size": "small",
         "marker-symbol": "roadblock"
       },
@@ -691,7 +691,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffdc00",
+        "marker-color": "#aaaaaa",
         "marker-size": "small",
         "marker-symbol": "roadblock"
       },
@@ -731,7 +731,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffdc00",
+        "marker-color": "#aaaaaa",
         "marker-size": "small",
         "marker-symbol": "roadblock"
       },
@@ -771,7 +771,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffdc00",
+        "marker-color": "#aaaaaa",
         "marker-size": "small",
         "marker-symbol": "roadblock"
       },
