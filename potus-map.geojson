@@ -1138,22 +1138,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7fdbff",
-        "marker-size": "large",
-        "marker-symbol": "car",
-        "title": "Motorcade"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.9409008026123,
-          32.80412152875363
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#ff4136",
         "stroke-width": 7,
         "stroke-opacity": 1
@@ -1197,6 +1181,22 @@
             -79.95235919952393,
             32.81256186665303
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7fdbff",
+        "marker-size": "large",
+        "marker-symbol": "car",
+        "title": "Motorcade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92978572845459,
+          32.7887176499516
         ]
       }
     }
