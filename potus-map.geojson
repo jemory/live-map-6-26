@@ -964,22 +964,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "large",
-        "marker-symbol": "star",
-        "title": "President Obama about to speak"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93442058563232,
-          32.78507371930769
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#85144a",
         "stroke-width": 5,
         "stroke-opacity": 1
