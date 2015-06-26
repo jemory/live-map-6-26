@@ -526,8 +526,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0075d9",
-        "marker-size": "large",
-        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-symbol": "",
         "title": "Reports: Arena nearly full"
       },
       "geometry": {
