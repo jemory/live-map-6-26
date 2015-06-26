@@ -905,7 +905,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#39cbcc",
-        "marker-size": "large",
+        "marker-size": "small",
         "marker-symbol": "camera",
         "title": "View walking into TD Arena around 1:40 @celmorePC",
         "description": "<img src=\"https://pbs.twimg.com/media/CIcar-6XAAAUZEh.jpg\">"
