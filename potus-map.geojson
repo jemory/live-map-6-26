@@ -948,42 +948,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -80.02724647521973,
-            32.78936704766095
-          ],
-          [
-            -80.0079345703125,
-            32.78590353842214
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#85144a",
-        "marker-size": "small",
-        "marker-symbol": "car"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.0172472000122,
-          32.78752707517003
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#85144a",
-        "stroke-width": 5,
-        "stroke-opacity": 1
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -80.0201654434204,
             32.80462652877769
           ],
