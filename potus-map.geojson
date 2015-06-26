@@ -537,6 +537,22 @@
           32.78525411542582
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "title": "Remote viewing location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93571877479553,
+          32.7898180155028
+        ]
+      }
     }
   ]
 }
