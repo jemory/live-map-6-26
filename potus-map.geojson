@@ -333,7 +333,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0075d9",
-        "marker-size": "large",
+        "marker-size": "small",
         "marker-symbol": "star",
         "title": "Public being allowed to enter arena"
       },
@@ -523,6 +523,23 @@
         "coordinates": [
           -79.92714643478394,
           32.780437413560065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0075d9",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "title": "Reports of line cutting",
+        "description": "<a href=\"https://twitter.com/glennsmith5/status/614419563569127424\">Link</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93370175361633,
+          32.78591255815258
         ]
       }
     }
