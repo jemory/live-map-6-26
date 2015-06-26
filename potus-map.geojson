@@ -220,10 +220,10 @@
       "properties": {
         "title": "Roads will close at 6am",
         "description": "",
-        "stroke": "#000",
+        "stroke": "#000000",
         "stroke-width": "",
         "marker-size": "",
-        "marker-color": "#000",
+        "marker-color": "#fffb00",
         "marker-symbol": "roadblock"
       },
       "geometry": {
