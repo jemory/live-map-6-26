@@ -319,22 +319,6 @@
         "marker-color": "#ff4136",
         "marker-size": "medium",
         "marker-symbol": "car",
-        "title": "Traffic reported"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93841171264648,
-          32.883623659494546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "medium",
-        "marker-symbol": "car",
         "title": "Traffic Reported"
       },
       "geometry": {
@@ -358,22 +342,6 @@
         "coordinates": [
           -79.93413090705872,
           32.785308234189934
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "medium",
-        "marker-symbol": "car",
-        "title": "Traffic Reported"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.01977920532227,
-          32.88290287182975
         ]
       }
     },
