@@ -376,6 +376,22 @@
           32.78597569624017
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0075d9",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "title": "Public being allowed to enter arena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93413090705872,
+          32.785308234189934
+        ]
+      }
     }
   ]
 }
