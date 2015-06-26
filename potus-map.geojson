@@ -1366,6 +1366,22 @@
           32.896308562782686
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#39cbcc",
+        "marker-size": "small",
+        "marker-symbol": "camera",
+        "description": "<img src=\"https://pbs.twimg.com/media/CIcSvE1WIAA34cm.jpg\">"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.04535675048828,
+          32.90020015763739
+        ]
+      }
     }
   ]
 }
