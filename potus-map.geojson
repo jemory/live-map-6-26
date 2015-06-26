@@ -907,27 +907,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#85144a",
-        "stroke-width": 4,
-        "stroke-opacity": 1
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.95559930801392,
-            32.78462272741179
-          ],
-          [
-            -79.95186567306519,
-            32.78579530158532
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#ffdc00",
         "marker-size": "small",
         "marker-symbol": "",
