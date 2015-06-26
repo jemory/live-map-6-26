@@ -840,7 +840,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#85144a",
+        "stroke": "#ff851b",
         "stroke-width": 6,
         "stroke-opacity": 1
       },
