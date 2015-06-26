@@ -899,7 +899,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff851b",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -1352,7 +1352,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff851b",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
