@@ -1567,6 +1567,22 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7fdbff",
+        "marker-size": "large",
+        "marker-symbol": "car",
+        "title": "Motorcade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9409008026123,
+          32.80412152875363
+        ]
+      }
     }
   ]
 }
