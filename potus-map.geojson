@@ -4,9 +4,10 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-opacity": 1,
         "title": "Closed",
         "description": "6:00am",
-        "stroke": "black",
+        "stroke": "#fa4a31",
         "stroke-width": 5
       },
       "geometry": {
@@ -26,10 +27,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-opacity": 1,
         "title": "George St",
         "description": "6:00am",
-        "stroke": "black",
-        "stroke-width": 4
+        "stroke": "#fa4a31",
+        "stroke-width": 5
       },
       "geometry": {
         "type": "LineString",
@@ -48,10 +50,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-opacity": 1,
         "title": "Burns Ln",
         "description": "6:00am",
-        "stroke": "black",
-        "stroke-width": 3
+        "stroke": "#fa4a31",
+        "stroke-width": 4
       },
       "geometry": {
         "type": "LineString",
@@ -70,10 +73,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-opacity": 1,
         "title": "Society St",
         "description": "6:00am",
-        "stroke": "black",
-        "stroke-width": 4
+        "stroke": "#fa4a31",
+        "stroke-width": 5
       },
       "geometry": {
         "type": "LineString",
@@ -95,7 +99,7 @@
         "stroke-opacity": 1,
         "title": "Meeting St",
         "description": "7:00am",
-        "stroke": "#aaaaaa",
+        "stroke": "#fa8800",
         "stroke-width": 5
       },
       "geometry": {
@@ -122,7 +126,7 @@
         "stroke-opacity": 1,
         "title": "Hutson St",
         "description": "7:00am",
-        "stroke": "#aaaaaa",
+        "stroke": "#fa8800",
         "stroke-width": 4
       },
       "geometry": {
@@ -149,7 +153,7 @@
         "stroke-opacity": 1,
         "title": "Charlotte St",
         "description": "7:00am",
-        "stroke": "#aaaaaa",
+        "stroke": "#fa8800",
         "stroke-width": 4
       },
       "geometry": {
@@ -172,7 +176,7 @@
         "stroke-opacity": 1,
         "title": "Henrietta St",
         "description": "7:00am",
-        "stroke": "#aaaaaa",
+        "stroke": "#fa8800",
         "stroke-width": 4
       },
       "geometry": {
@@ -192,10 +196,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-opacity": 1,
         "title": "Calhoun St",
         "description": "7:00am",
-        "stroke": "black",
-        "stroke-width": 5
+        "stroke": "#fa4a31",
+        "stroke-width": 6
       },
       "geometry": {
         "type": "LineString",
@@ -222,30 +227,87 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Roads will close at 6am",
-        "description": "",
-        "stroke": "#000000",
-        "stroke-width": "",
-        "marker-size": "",
         "marker-color": "#ffdc00",
-        "marker-symbol": "roadblock"
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Road Closed",
+        "description": "6:00am",
+        "stroke": "",
+        "stroke-width": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.93429183959961,
-          32.78675138908728
+          -79.93626594543457,
+          32.78583138054556
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#ffdc00",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Road Closed",
+        "description": "6:00am"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.95299220085144,
-          32.80884677394362
+          -79.9316954612732,
+          32.78785177896364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdc00",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Road Closed",
+        "description": "6:00am"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93429183959961,
+          32.786715310500185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdc00",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Road Closed",
+        "description": "6:00am"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93189930915831,
+          32.78326071800728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdc00",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "title": "Road Closed",
+        "description": "7:00am"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93582606315611,
+          32.78915058228465
         ]
       }
     }
