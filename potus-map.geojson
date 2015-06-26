@@ -1281,22 +1281,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffdc00",
-        "marker-size": "medium",
-        "marker-symbol": "star",
-        "title": "Air Force One had landed in Charleston"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.04020690917969,
-          32.89919124205649
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#39cbcc",
         "marker-size": "small",
         "marker-symbol": "camera",
