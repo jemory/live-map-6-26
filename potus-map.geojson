@@ -347,7 +347,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#797979",
         "marker-size": "medium",
         "marker-symbol": "car"
       },
@@ -395,7 +395,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff4136",
+        "marker-color": "#797979",
         "marker-size": "medium",
         "marker-symbol": "car"
       },
@@ -532,6 +532,106 @@
         "coordinates": [
           -79.93375539779663,
           32.78598471596329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#85144a",
+        "stroke-width": 7,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.94555711746216,
+            32.78330581799023
+          ],
+          [
+            -79.94429111480713,
+            32.783612497268074
+          ],
+          [
+            -79.94240283966064,
+            32.78409957394813
+          ],
+          [
+            -79.93937730789185,
+            32.7847490053731
+          ],
+          [
+            -79.93763923645018,
+            32.78534431334772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#85144a",
+        "stroke-width": 7,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93626594543457,
+            32.78579530158532
+          ],
+          [
+            -79.9373173713684,
+            32.78740080115238
+          ],
+          [
+            -79.93789672851562,
+            32.788230598558044
+          ],
+          [
+            -79.93858337402344,
+            32.78925881503865
+          ],
+          [
+            -79.93939876556396,
+            32.79043132809821
+          ],
+          [
+            -79.94021415710449,
+            32.791621864004085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93847608566284,
+          32.78900627174111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94150161743164,
+          32.784298011831
         ]
       }
     }
