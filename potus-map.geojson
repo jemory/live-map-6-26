@@ -700,6 +700,23 @@
           32.79741197047022
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0075d9",
+        "marker-size": "medium",
+        "marker-symbol": "town-hall",
+        "title": "Remote Viewing Location",
+        "description": "Charleston County Council Chambers, Public Services Building, 4045 Bridgeview Drive, North Charleston, SC 29405, 843-958-4000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01320242881775,
+          32.84055532370215
+        ]
+      }
     }
   ]
 }
