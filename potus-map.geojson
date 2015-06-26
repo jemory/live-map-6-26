@@ -523,23 +523,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff851b",
-        "marker-size": "small",
-        "marker-symbol": "",
-        "title": "Funeral attendee faints due to heat",
-        "description": "<img src=\"https://pbs.twimg.com/media/CIbl80QWsAAJQRS.jpg\">"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93491411209106,
-          32.787671388113516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#0075d9",
         "marker-size": "large",
         "marker-symbol": "star",
