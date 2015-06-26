@@ -816,8 +816,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#85144a",
-        "stroke-width": 5,
+        "stroke": "#ffdc00",
+        "stroke-width": 4,
         "stroke-opacity": 1
       },
       "geometry": {
