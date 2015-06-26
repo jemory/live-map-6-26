@@ -1726,7 +1726,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff851b",
+        "stroke": "#ffdc00",
         "stroke-width": 4,
         "stroke-opacity": 1
       },
@@ -2291,22 +2291,6 @@
         "coordinates": [
           -80.00415802001953,
           32.86747661083541
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff4136",
-        "marker-size": "medium",
-        "marker-symbol": "car",
-        "title": "Accident Reported"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.03694534301756,
-          32.80610544091552
         ]
       }
     },
