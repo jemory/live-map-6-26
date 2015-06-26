@@ -743,6 +743,23 @@
           32.79093640588344
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4136",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "title": "\"Line on Meeting St. now a disorganized mass. People wondering why @CharlestonPD not corralling. No order, no barriers up. @postandcourier\"",
+        "description": "-@JenBerryHawes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93437767028809,
+          32.786823546217526
+        ]
+      }
     }
   ]
 }
