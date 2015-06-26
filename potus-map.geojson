@@ -929,7 +929,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff4136",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "star",
         "description": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">Calhoun Street between Anson Street and Meeting Street will remain closed to vehicular traffic through Sunday.</p>&mdash; Charleston P.D. (@CharlestonPD) <a href=\"https://twitter.com/CharlestonPD/status/614501891662344192\">June 26, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
       },
