@@ -1959,7 +1959,7 @@
       "properties": {
         "stroke": "#ffdc00",
         "stroke-width": 6,
-        "stroke-opacity": 1
+        "stroke-opacity": 0
       },
       "geometry": {
         "type": "LineString",
