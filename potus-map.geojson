@@ -239,6 +239,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#101010",
+        "marker-size": "large",
+        "marker-symbol": "water",
+        "title": "Boil Water Advisory",
+        "description": "The Charleston Water System is advising downtown residents to boil water following an outage this morning. CWS says the advisory will be lifted once testing confirms that water is safe. CWS says it will take at least 18 hours for their laboratory to test samples."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94364738464355,
+          32.79398485018318
+        ]
+      }
     }
   ]
 }
